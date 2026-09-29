@@ -16,7 +16,7 @@ I build products that turn high-intent moments into meaningful customer actionâ€
 
 I'm a product manager with 5+ years of experience taking digital products from problem discovery through launch and iteration. My work spans O2O commerce and healthtech, and I especially enjoy the point where customer behaviour, operational realities, and a measurable business outcome meet.
 
-Alongside product leadership, I build hands-on prototypes to explore AI workflows, interaction patterns, and responsible automation. I care about products that are not only useful, but also clear about their limits and respectful of user control.
+Alongside product leadership, I build hands-on prototypes to explore AI workflows and responsible automation. I care about products that are not only useful, but also clear about their limits and respectful of user control.
 
 **Currently focused on:** growth loops, adoption mechanics, AI-assisted workflows, explainable product decisions, and human-in-the-loop automation.
 
