@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Prerna Kapoor 👋
+# Hey, I'm Prerna Kapoor 👋
 
 ### Growth & Adoption Product Manager · AI Product Builder
 
