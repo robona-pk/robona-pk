@@ -34,12 +34,12 @@ Alongside product leadership, I build hands-on prototypes to explore AI workflow
 
 ## Product builds
 
-### [ApplyGuard](https://github.com/robona-pk/applyguard) — a supervised job-search copilot
+### [Rolewise](https://github.com/robona-pk/rolewise) — a supervised job-search copilot
 
 An evidence-grounded, local-first workflow that helps candidates review role fit and prepare application packets without auto-applying or making unsupported claims. It combines candidate-controlled Gmail imports, hard eligibility filters, transparent ranking, and human approval.
 
 **What it demonstrates:** AI workflow design, privacy boundaries, explainable matching, and responsible automation.<br>
-[Live app](https://applyguard.vercel.app) · [Case study](https://github.com/robona-pk/applyguard/blob/main/docs/portfolio-case-study.md)
+[Live app](https://rolewise-pk.vercel.app) · [Case study](https://github.com/robona-pk/rolewise/blob/main/docs/portfolio-case-study.md)
 
 ### [Signal](https://github.com/robona-pk/signal-dating-coach) — dating and communication coaching MVP
 
